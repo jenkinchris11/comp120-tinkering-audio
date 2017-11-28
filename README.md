@@ -1,6 +1,6 @@
 # comp-120-tinkering-audio
 
-Chris Jenkin - Huw Kreuchen
+Chris Jenkin
 
 Contract #4 - Ambient Audio Generation
 
